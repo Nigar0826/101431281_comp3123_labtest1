@@ -1,6 +1,7 @@
 // comp3123 lab test1
 // Nigar Ahmadova
 // 101431281
+// question1
 
 
 function lowerCaseWords(array) {
