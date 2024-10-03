@@ -1,7 +1,7 @@
 // comp3123 lab test1
 // Nigar Ahmadova
 // 101431281
-// question3_ remove
+// question3_remove
 
 
 const fs = require('fs');
